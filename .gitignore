@@ -1,0 +1,8 @@
+/target
+
+# Remove to prevent copyright issues
+*.mkv
+*.mp4
+*.webm
+*.wav
+*.jpg
